@@ -1,3 +1,5 @@
+![Logo](../skyfld_logo_jpg.jpeg?raw=true "SKYFLD LOGO")
+
 # Welcome to SKYFLD®
 
 **SKYFLD** is an independent precision farming platform designed for modern agriculture. Our platform helps farmers maximize crop productivity, reduce input costs, and optimize yields through advanced data-driven insights.
